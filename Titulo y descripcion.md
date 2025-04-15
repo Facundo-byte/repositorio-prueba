@@ -1,3 +1,3 @@
 # repositorio-prueba
-##descripcion
+## descripcion
 Primer repositorio creado en github re facherito
